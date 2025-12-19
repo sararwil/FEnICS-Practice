@@ -1,22 +1,13 @@
-# macOS
 .DS_Store
-
-# Python
 __pycache__/
 *.pyc
 *.pyo
-
-# Jupyter
 .ipynb_checkpoints/
-
-# FEniCS output / results
 *.pvd
 *.vtu
 *.pvtu
 *.xdmf
 *.h5
 *.log
-
-# Environments
 .env
 .venv
